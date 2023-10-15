@@ -1,0 +1,7 @@
+echo "Installing necessary packages..."
+pip install phonenumbers
+pip install folium
+pip install opencage-python-api
+pip install colorama
+
+python3 phone.py
