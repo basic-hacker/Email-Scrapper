@@ -1,4 +1,0 @@
-phonenumbers
-folium
-opencage-python-api
-colorama
